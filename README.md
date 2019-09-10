@@ -1,8 +1,8 @@
-# interior designs
-## Simple repository we are using to learn git, 09/10/2019
+## interior designs
+#### Simple repository we are using to learn git, 09/10/2019
 
-# Description
-* for learning html and CSS work.
+### Description
+for learning html and CSS work.
 
 Setup/Installation Requirements
 clone this repo
